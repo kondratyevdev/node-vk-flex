@@ -1,0 +1,15 @@
+{
+  "description": "VK Name Flex for Node.js",
+  "devDependencies": {},
+  "gypfile": true,
+  "main": "index.js",
+  "name": "node-vk-flex",
+  "optionalDependencies": {},
+  "private": true,
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "install": "node-gyp rebuild",
+    "test": "node index.js"
+  },
+  "version": "1.0.0"
+}
